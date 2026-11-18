@@ -3,7 +3,7 @@ services:
     image: dockurr/windows
     container_name: windows
     environment:
-      VERSION: "tiny10"
+      VERSION: "core11"
       USERNAME: "Tlgx"
       PASSWORD: "tlgx@123"
       RAM_SIZE: "3G"
